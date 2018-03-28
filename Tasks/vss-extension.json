@@ -1,8 +1,8 @@
 {
   "manifestVersion": 1,
-  "id": "download-build-artifact",
+  "id": "download-build-artifacts-test",
   "name": "DownloadBuildArtifacts",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "publisher": "office-Internal",
   "targets": [
     {

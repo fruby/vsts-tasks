@@ -1,11 +1,11 @@
 {
-  "id": "a433f589-fce1-4460-9ee6-44a624aeb1fb",
-  "name": "DownloadBuildArtifacts",
-  "friendlyName": "Download Build Artifacts",
+  "id": "a433f589-fce1-4460-9ee6-44a624aeb3fe",
+  "name": "DownloadBuildArtifactsTest",
+  "friendlyName": "Download Build Artifacts Test",
   "description": "Download Build Artifacts",
   "helpMarkDown": "",
   "category": "Utility",
-  "author": "Microsoft Corporation",
+  "author": "lypolyzo",
   "version": {
     "Major": 0,
     "Minor": 133,
